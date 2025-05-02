@@ -1,7 +1,7 @@
 # 🛒 Gerenciador de Produtos e Vendas
 
-![Preview 1 do Sistema](ftGerenciadorFlet 1.png)
-![Preview 2 do Sistema](ftGerenciadorFlet 2.png)
+![Preview 1 do Sistema](ftGerenciadorFlet1.png)
+![Preview 2 do Sistema](ftGerenciadorFlet2.png)
 
 Sistema completo para gerenciamento de estoque e vendas, com interface moderna e banco de dados SQLite integrado.
 
