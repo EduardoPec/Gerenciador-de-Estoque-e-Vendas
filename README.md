@@ -29,3 +29,7 @@ Sistema completo para gerenciamento de estoque e vendas, com interface moderna e
 1. **Pré-requisitos**:
    ```bash
    pip install flet
+
+2. Clone o repositório:
+   ```bash
+   git clone https://github.com/EduardoPec/calculadorDeImc
